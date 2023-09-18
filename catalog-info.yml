@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: helena
+  annotations:
+    github.com/project-slug: ebans/helena
+spec:
+  type: other
+  lifecycle: unknown
