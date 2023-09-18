@@ -7,3 +7,5 @@ metadata:
 spec:
   type: other
   lifecycle: unknown
+  owner: "Juanes"
+  description: "A component for managing the Helena project."
